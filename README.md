@@ -1,12 +1,13 @@
-**Team Kemozalan**
+NOTE THAT THIS GAME WAS MADE WITH THE HELP OF OTHER MEMBERS FOR A GROUP PROECT>
+
+**Team ____________**
 
 
 **Members of The Team:**
-Andrew Huynh, drewh9@my.yorku.ca, Section N, LAB 02
-Moses Luna, moseslun@my.yorku.ca, Section P, LAB 02
-Ghazal Rahman, ghazal24@my.yorku.ca, Section P, LAB 01
-Kevin Lu, klu08@my.yorku.ca, Section N, LAB 03 
-
+Andrew H
+Moses L
+Ghazal R
+Kevin L
 
 **Project Title and Description:**
 The title of our project will be Random Number Memory Game. 
